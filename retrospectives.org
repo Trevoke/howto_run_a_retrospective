@@ -1,0 +1,85 @@
+* Slide Options                           :noexport:
+# ======= Appear in cover-slide ====================
+#+TITLE: How to run a retrospective
+#+SUBTITLE: Soylent Green is people
+#+COMPANY: Stride NYC
+
+# ======= Appear in thank-you-slide ================
+#+GOOGLE_PLUS: https://plus.google.com/+AldricGiacomoni
+#+WWW: http://blog.trevoke.net
+#+GITHUB: http://github.com/trevoke
+#+TWITTER: trevoke
+
+# ======= Org settings =========================
+#+EXCLUDE_TAGS: noexport
+#+OPTIONS: toc:nil num:nil
+
+* HOWTO run retrospectives
+A successful retrospective is one that fulfills its function.
+
+The function of a retrospective is to find ways for the team to get its work done more efficiently.
+
+* The steps of a retrospective
+#+ATTR_HTML: :class build fade
+1. Everyone verbally agrees to the Prime Directive
+2. Check in on last retrospective's objective(s)
+3. Pick conversation topic
+4. Explore root causes
+5. Converge on action item(s)
+6. Pick one champion for each action item
+7. Retrospective the retrospective
+* More detail on the steps
+ Reference: James Shore's Art of Agile Development book.
+
+The chapter on Retrospectives is available [[http://www.jamesshore.com/Agile-Book/retrospectives.html][online]].
+* The facilitator's role
+You have one job.
+
+To lead the team through the steps of the retrospective while maintaining the safety of the space.
+* The facilitator must:
+#+ATTR_HTML: :class build fade
+1. Manage the tensions of the conversations
+2. Be cognizant of the time
+3. Give only as much information as you need to
+4. Allow everyone to be involved
+5. Be ready for emotions to surface
+6. Allow the team to come to its own decisions
+* Manage the tensions of the conversation
+There are divergent and convergent steps in succession.
+- Generating ideas is divergent
+- Grouping is convergent.
+- Exploring root cause is divergent and has a subtle convergence to it: threads should aim for a root cause.
+- Finding an action item is convergent.
+* Be cognizant of the time
+A retrospective isn't a free pass for a time-out. It's still work.
+
+It is your responsibility to ensure the team goes through all the steps in the time allotted.
+* Give only as much information as you need to
+Say absolutely as little as possible to give the team the maximum amount of time. Everything you say eats into the team's time and mindspace.
+
+Let the team focus on what they need to think about.
+* Allow everyone to be involved
+A retrospective is a time for change. Change is hard. Team members *must* be able to say what's on their mind.
+
+Everyone gets a fair share of the conversation (*not* equal).
+
+Speaking one's mind must be safe. Nothing is "stupid" or "wrong".
+* Be ready for emotions to surface
+Chances are, at least one person in the room cares a lot.
+
+Communication in a team isn't always great, and many people take this work personally.
+
+Anger, sadness, bitterness, cynicism.. These can all come out.
+Be accepting and gentle.
+
+Sometimes the team, or someone in the team, will try shut down someone. Don't let that happen.
+* Allow the team to come to its own decisions
+The facilitator does *not* make decisions for the team. Let *them* do it. They know what they're working on way better than you do, and they know the pains they feel way better than you do.
+* Just remember:
+They are people.
+
+They have hopes and fears.
+
+They have ambitions and motivations.
+
+And they are here because they want to get the work done.
